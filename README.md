@@ -6,9 +6,9 @@ They can be installed together
 
 Differences between to two plugins
 
-original : Randomly mix colours (very cool tool)
+<b>Original</b> : Randomly mix colours (very cool tool)
 
-this version : replicate what is available on the printers (great for repeatability) 
+<b>this version</b> : replicate what is available on the printers (great for repeatability) 
 
 Windows Users:
 
