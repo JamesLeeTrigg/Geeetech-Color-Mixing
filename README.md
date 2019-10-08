@@ -9,7 +9,9 @@ original : Randomly mix colours (very cool tool)
 this version : replicate what is available on the printers (great for repeatability) 
 
 Windows Users:
+
 ColourMixer.py - Download this file and put it in your C:\Program Files\Ultimaker Cura 4.1\plugins\PostProcessingPlugin directory, then restart Cura. The "Mix Colours" option will now appear in Extensions ->  Postprocessing -> Modify G-Code
 
 Mac Users:
+
 ColourMixer.py - Download this file and put it in your Macintosh HD⁩/⁨Applications/Ultimaker Cura.app⁩/⁨Contents⁩/⁨Resources/plugins⁩/⁨plugins/⁨PostProcessingPlugin⁩ ▸ directory, then restart Cura. The "Mix Colours" option will now appear in Extensions ->  Postprocessing -> Modify G-Code
